@@ -10,7 +10,7 @@ const app = express();
 app.use(express.json());
 
 app.use(cors({
-  origin: ["http://89.108.88.129:80"],
+  origin: ["http://89.108.88.129"],
 }));
 const port = process.env.PORT || 5000;
 
