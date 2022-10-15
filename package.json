@@ -3,8 +3,6 @@
   "description": "landing & corporate",
   "version": "1.4.0",
   "private": true,
-  "main": "server.js",
-  "type": "module",
 
   "scripts": {
     "lint": "next lint",
